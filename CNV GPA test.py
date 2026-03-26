@@ -1,6 +1,6 @@
 #Cliff Nallding Victor
 # Dean's List or Honor 
-# This app will record student names and their GPAs and determin wether the student is qualify for Dean's List or Honor society 
+# This app will record student names and their GPAs and determines whether the student qualifies for Dean's List or Honor Roll 
 
 while True:
     student_last_name = input("Enter last name or enter ZZZ to quit:")
